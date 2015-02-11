@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="preloadJS" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Desktop/preloadjs-0.6.0.combined.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/preloadjs-0.6.0.combined.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
